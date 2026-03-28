@@ -21,7 +21,6 @@
 🔹 [FilmHub](https://github.com/AravindEdakkot/cinehac_v2_0)  
 🔹 [Sentiment Analysis App (Amazon, Flipkart, Myntra)](https://github.com/AravindEdakkot/Product-Sentiment-Analysis.git)  
 🔹 [Image Downloader API](https://github.com/AravindEdakkot/image_downloader_API)  
-🔹 [Rice Leaf Disease Detection](finalizing)  
 🔹 [Forest Fire Detection through satellite imaging](upcoming)  
 
 ---
