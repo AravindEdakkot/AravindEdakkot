@@ -1,28 +1,31 @@
 # Hi 👋, I'm Aravind
 
-💻 Python Developer | ML Enthusiast | React & Flutter Developer  
+
+💻 Artificial Intelligence Engineer | ML Enthusiast | Python Developer | React Developer  
 📊 Passionate about Data Analysis & AI  
 🚀 Building real-world applications  
 
 ---
 
 ## 🧠 Skills
-- Python, JavaScript
-- Machine Learning (scikit-learn, TensorFlow basics)
-- React, Flutter
-- Web Scraping (Selenium, BeautifulSoup)
-- Streamlit Apps
+
+•	Languages: Python, C, JavaScript, SQL
+•	AI/ML Frameworks: TensorFlow, PyTorch, Keras
+•	Web frameworks: React, Streamlit
+•	Library: Selenium, textblob, fastapi, pandas, Scikit-learn, openCV
 
 ---
 
 ## 📌 Projects
+🔹 NER model for Malayalam Language
+🔹 FilmHub 
 🔹 Sentiment Analysis App (Amazon, Flipkart, Myntra)  
 🔹 Image Downloader API  
 🔹 Rice Leaf Disease Detection  
-🔹 PDF to Audiobook Converter  
+🔹 Forest Fire Detection through satellite imaging
 
 ---
 
 ## 📫 Connect with me
-- LinkedIn: (add link)
-- Email: (add mail)
+- LinkedIn: (www.linkedin.com/in/aravindedakkot)
+- Email: (aravindedakkot@gmail.com)
