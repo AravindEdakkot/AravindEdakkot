@@ -22,4 +22,3 @@
 - LinkedIn: (www.linkedin.com/in/aravindedakkot)
 - Email: (aravindedakkot@gmail.com)  
 
-## 📌 Projects  
