@@ -9,10 +9,10 @@
 
 ## 🧠 Skills
 
-•	Languages: Python, C, JavaScript, SQL
-•	AI/ML Frameworks: TensorFlow, PyTorch, Keras
-•	Web frameworks: React, Streamlit
-•	Library: Selenium, textblob, fastapi, pandas, Scikit-learn, openCV
+•	Languages: Python, C, JavaScript, SQL  
+•	AI/ML Frameworks: TensorFlow, PyTorch, Keras  
+•	Web frameworks: React, Streamlit  
+•	Library: Selenium, textblob, fastapi, pandas, Scikit-learn, openCV  
 
 ---
 
