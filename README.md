@@ -17,12 +17,12 @@
 ---
 
 ## 📌 Projects
-🔹 NER model for Malayalam Language  
-🔹 FilmHub  
-🔹 Sentiment Analysis App (Amazon, Flipkart, Myntra)  
-🔹 Image Downloader API  
-🔹 Rice Leaf Disease Detection  
-🔹 Forest Fire Detection through satellite imaging  
+🔹 [NER model for Malayalam Language](https://github.com/AravindEdakkot/NER_malayalam_using_MuRIL_finetuning)  
+🔹 [FilmHub](https://github.com/AravindEdakkot/cinehac_v2_0)  
+🔹 [Sentiment Analysis App (Amazon, Flipkart, Myntra)](https://github.com/AravindEdakkot/Product-Sentiment-Analysis.git)  
+🔹 [Image Downloader API](https://github.com/AravindEdakkot/image_downloader_API)  
+🔹 [Rice Leaf Disease Detection](finalizing)  
+🔹 [Forest Fire Detection through satellite imaging](upcoming)  
 
 ---
 
