@@ -17,12 +17,12 @@
 ---
 
 ## 📌 Projects
-🔹 NER model for Malayalam Language
-🔹 FilmHub 
+🔹 NER model for Malayalam Language  
+🔹 FilmHub  
 🔹 Sentiment Analysis App (Amazon, Flipkart, Myntra)  
 🔹 Image Downloader API  
 🔹 Rice Leaf Disease Detection  
-🔹 Forest Fire Detection through satellite imaging
+🔹 Forest Fire Detection through satellite imaging  
 
 ---
 
